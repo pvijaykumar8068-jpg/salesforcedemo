@@ -68,6 +68,3 @@ code must be understanble format ad make sure it's clien and build as per requir
 check before the bugs and vulnerabilites 
 =======
 ## Branches added on Project
-- Dev-team
-- QA
->>>>>>> QA
