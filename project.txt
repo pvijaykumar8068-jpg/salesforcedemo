@@ -1,0 +1,6 @@
+" Today we are going to learn about salesforce devops"
+like commands Git init, add . , commit, push
+
+now we are going to merge conncept like one file to merge all branches after done 
+one by one push
+and we going technical confilx issue however reslove eraierly now want to more objectives 
