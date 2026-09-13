@@ -56,6 +56,7 @@ Transform your ideas into custom Lightning apps that extend CRM workflows direct
 - [Salesforce CLI Plugin Development Guide](https://developer.salesforce.com/docs/platform/salesforce-cli-plugin/guide/conceptual-overview.html)
 - [Salesforce VS Code Extensions Documentation](https://developer.salesforce.com/tools/vscode/)
 
+<<<<<<< HEAD
 ## Code Component
 - Python
 - JAVA
@@ -65,3 +66,8 @@ Transform your ideas into custom Lightning apps that extend CRM workflows direct
 
 code must be understanble format ad make sure it's clien and build as per required code qulity 
 check before the bugs and vulnerabilites 
+=======
+## Branches added on Project
+- Dev-team
+- QA
+>>>>>>> QA
