@@ -4,3 +4,8 @@ like commands Git init, add . , commit, push
 now we are going to merge conncept like one file to merge all branches after done 
 one by one push
 and we going technical confilx issue however reslove eraierly now want to more objectives 
+
+We learn about sales force Roles and Resoponsibilites to make suject wise of content then focus on 
+commands and controls, we mailny focus on and the git & Github configuration like, Merge, Cherry-pick 
+Merge - One done code to move next Branck like a developer write on code then give  to QA team 
+and QA team will check the code Qulity and Find the Vulnerabilities, Gaps 
